@@ -31,6 +31,16 @@
   </url>
   
   <url>
+    <loc>/posts/second-post/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/third-post/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/cjk-demo/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
@@ -72,6 +82,11 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
     <priority>0</priority>
   </url>
   

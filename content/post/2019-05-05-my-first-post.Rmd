@@ -1,10 +1,21 @@
 ---
-title: My first post
-author: alvin
+title: "My first post"
+author: "Alvin Mejia"
 date: '2019-05-05'
-slug: my-first-post
-categories:
-  - R
-tags: []
+output:
+  html_document:
+    df_print: paged
+  word_document: default
 isCJKLanguage: no
+slug: my-first-post
+tags: []
+categories: R
 ---
+#Introduction
+##Background
+
+Welcome! The goal of this website is to provide practical concepts regarding strategic transport planning. The target audience of this resource are local government personnel in the Philippines who are involved in making urban transport-related decisions.
+
+
+
+
