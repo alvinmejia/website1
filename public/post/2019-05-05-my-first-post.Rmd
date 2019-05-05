@@ -1,0 +1,10 @@
+---
+title: My first post
+author: alvin
+date: '2019-05-05'
+slug: my-first-post
+categories:
+  - R
+tags: []
+isCJKLanguage: no
+---
